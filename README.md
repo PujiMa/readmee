@@ -31,6 +31,6 @@ setInterval(function);
 1. Nimal
 2. Jagath
 ---
-# Data ===>
+# Symbol
 &copy; copy
 
